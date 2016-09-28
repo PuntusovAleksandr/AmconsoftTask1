@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name" translatable="false">AmconsoftTask1</string>
+    <string name="ce_1257218" translatable="false">CE-1237218</string>
+    <string name="in_work">In work</string>
+    <string name="created">Created</string>
+    <string name="february_25_2016">February 25, 2016</string>
+    <string name="registered">Registered</string>
+    <string name="solve_util">Solve until</string>
+    <string name="february_26_2016">February 26, 2016</string>
+    <string name="february_29_2016">February 29, 2016</string>
+    <string name="responsible">Responsible</string>
+    <string name="dnipropetrovskiy_mvk">Dnipropetrovskiy MVK</string>
+    <string name="description">Opened hatch (near by the billboard), the area of 18 and 19 trams turn to the Mir avenue from the Donetsk roadway</string>
+    <string name="utility_selector">Utility Selector</string>
+
+    <array name="list_url" >
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142552-10-favorite-movie-stars-gettyimages-462215590-super-169.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>https://media4.giphy.com/media/AVqZEAQIBbg5i/200_s.gif</item>
+        <item>http://www.projectfellowship.com/wp-content/uploads/2015/04/famous-movie-stars-Dwayne-Johnson.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142441-05-favorite-movie-stars-gettyimages-107985635-super-169.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142552-10-favorite-movie-stars-gettyimages-462215590-super-169.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>http://media.buzzle.com/media/images/gallery/editorials/actresses/300-140017797-angelina-jolie.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>https://media4.giphy.com/media/AVqZEAQIBbg5i/200_s.gif</item>
+        <item>http://www.projectfellowship.com/wp-content/uploads/2015/04/famous-movie-stars-Dwayne-Johnson.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142441-05-favorite-movie-stars-gettyimages-107985635-super-169.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142441-05-favorite-movie-stars-gettyimages-107985635-super-169.jpg</item>
+        <item>http://media.buzzle.com/media/images/gallery/editorials/actresses/300-140017797-angelina-jolie.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142552-10-favorite-movie-stars-gettyimages-462215590-super-169.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>https://media4.giphy.com/media/AVqZEAQIBbg5i/200_s.gif</item>
+        <item>http://www.projectfellowship.com/wp-content/uploads/2015/04/famous-movie-stars-Dwayne-Johnson.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142441-05-favorite-movie-stars-gettyimages-107985635-super-169.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142552-10-favorite-movie-stars-gettyimages-462215590-super-169.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>http://media.buzzle.com/media/images/gallery/editorials/actresses/300-140017797-angelina-jolie.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>https://media4.giphy.com/media/AVqZEAQIBbg5i/200_s.gif</item>
+        <item>http://www.projectfellowship.com/wp-content/uploads/2015/04/famous-movie-stars-Dwayne-Johnson.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142441-05-favorite-movie-stars-gettyimages-107985635-super-169.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142441-05-favorite-movie-stars-gettyimages-107985635-super-169.jpg</item>
+        <item>http://media.buzzle.com/media/images/gallery/editorials/actresses/300-140017797-angelina-jolie.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142552-10-favorite-movie-stars-gettyimages-462215590-super-169.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>https://media4.giphy.com/media/AVqZEAQIBbg5i/200_s.gif</item>
+        <item>http://www.projectfellowship.com/wp-content/uploads/2015/04/famous-movie-stars-Dwayne-Johnson.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142441-05-favorite-movie-stars-gettyimages-107985635-super-169.jpg</item>
+        <item>http://i2.cdn.turner.com/cnnnext/dam/assets/160128142552-10-favorite-movie-stars-gettyimages-462215590-super-169.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>http://media.buzzle.com/media/images/gallery/editorials/actresses/300-140017797-angelina-jolie.jpg</item>
+        <item>http://static1.businessinsider.com/image/56acd5e858c3238d008b694b-1190-625/americans-named-their-favorite-movie-stars-and-the-top-5-are-all-men.jpg</item>
+        <item>https://media4.giphy.com/media/AVqZEAQIBbg5i/200_s.gif</item>
+        <item>http://www.projectfellowship.com/wp-content/uploads/2015/04/famous-movie-stars-Dwayne-Johnson.jpg</item>
+
+    </array>
+</resources>

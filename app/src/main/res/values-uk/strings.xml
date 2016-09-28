@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created" translatable="false">Создан</string>
+    <string name="description">Відкритий люк (поруч з рекламного щита), площа 18 і 19 трамваїв звертаються до проспекту Миру від проїжджої частини Донецька</string>
+    <string name="dnipropetrovskiy_mvk">Дніпропетровськ MKV</string>
+    <string name="february_25_2016">Лютий 25, 2016</string>
+    <string name="february_26_2016">Лютий 26, 2016</string>
+    <string name="february_29_2016">Лютий 29, 2016</string>
+    <string name="in_work">В роботі</string>
+    <string name="registered">Зареєстрований</string>
+    <string name="responsible">Відповідальність</string>
+    <string name="solve_util">Вирішити до ти</string>
+    <string name="utility_selector">Програмний Сектор</string>
+</resources>
