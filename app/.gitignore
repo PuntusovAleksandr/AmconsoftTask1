@@ -1,1 +1,12 @@
+.gradle/
+build/
+.gradle
+/local.properties
+/.idea
+.DS_Store
 /build
+/captures
+*.iml
+# модуля app ---
+*.log
+# *.iml
